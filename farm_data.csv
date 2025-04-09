@@ -1,0 +1,6 @@
+timestamp,moisture,temperature,humidity,rainfall,irrigate,duration,reason
+2025-04-09 19:27:25,59.7,29.3,60.6,0.0,False,0,Soil moisture adequate (59.7%)
+2025-04-09 19:27:30,24.8,26.5,68.6,3.8,True,20,Soil moisture too low (24.8%)
+2025-04-09 19:27:33,57.3,25.1,77.6,9.7,False,0,Recent rainfall detected (9.7mm)
+2025-04-09 19:27:37,49.6,25.8,77.2,0.0,False,0,Soil moisture adequate (49.6%)
+2025-04-09 19:27:40,44.6,34.0,81.0,7.8,False,0,Recent rainfall detected (7.8mm)
